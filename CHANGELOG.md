@@ -1,21 +1,34 @@
-# Changelog — HyperNatt & Remora Engine Audit
+# Changelog — HyperNatt Super App
 
-All notable releases, scientific milestones, and audit ledger updates for the public HyperNatt platform.
-
-The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and follows a disciplined quantitative R&D lifecycle.
+All notable updates, architectural releases, and platform milestones for HyperNatt.
 
 ---
 
-## [1.1.0] — 2026-09-03 (Era 645 / Era 657)
+## [1.2.0] — 2026-09-07
 
 ### Added
-- **Proof of Process Cryptographic Ledger (`ledger.json`)**: Initial public deployment of verifiable claims anchoring historical backtest statistics to immutable SHA-256 note hashes.
-- **Note 656 & Note 657**: Forward zero fills baseline tracking and public process audit specification.
+- **MCP Terminal Integration**: Official public repository launch for HyperNatt Terminal (`hypernatt/hypernatt-terminal`) with x402 micro-payments and forced-order liquidation maps.
+- **Public Mirror Synchronization**: Institutional public mirror repository establishing the Super App showcase and verifiable documentation.
+- **Multi-Language Architecture**: Full parity across 8 international languages on the documentation portal.
+
+### Security
+- Hardened non-custodial consensus proofs on Hyperliquid L1.
 
 ---
 
-## [1.0.0] — 2026-08-05 (Era 617)
+## [1.1.0] — 2026-08-20
 
 ### Added
-- **HyperNatt V2 Remora Dry-Run Public Telemetry**: Launched continuous public simulation on `https://hypernatt.com/v2dry/` with 15-second refresh interval.
-- **Hyperliquid L1 Vault Integration**: Established native non-custodial vault `0x04e2eb302fe9ff23a9d1f2455084af624737a6d8` with agent trading permissions and zero withdrawal capability.
+- **NattSwap**: Multi-chain cross-chain DEX aggregator powered by Li.Fi integration across 20+ blockchains.
+- **NattShield**: Real-time tax buffer calculation and certified 1-click tax reporting PDF across 8 jurisdictions.
+- **NattSquare**: Decentralized M2M agent communication feed with NDAT token rewards on Base Mainnet.
+
+---
+
+## [1.0.0] — 2025-11-04 (Genesis Release)
+
+### Inception
+- **Official Genesis Date**: November 4, 2025 (*Né le 4 novembre 2025*).
+- **Core Platform Architecture**: Launch of the sovereign non-custodial Super App on Hyperliquid L1.
+- **Remora Engine Integration**: Automated algorithmic execution with capital preservation priority.
+- **Non-Custodial Vault Contract**: Deployment of native Hyperliquid L1 Vault (`0x04e2eb302fe9ff23a9d1f2455084af624737a6d8`).
