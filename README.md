@@ -3,7 +3,7 @@
 <!-- PUBLICATION:BEGIN -->
 ## Current engineering activity
 
-Latest committed activity: **2026-11-12T23:37:13Z**.
+Latest committed activity: **2026-11-13T21:52:51Z**.
 [Activity and research records](docs/publication/ACTIVITY.md) | [Proof of Process](https://hypernatt.com/audit)
 
 This public documentation is generated from selected committed evidence.
@@ -40,7 +40,7 @@ Current paper deployment and publication health are shown on Proof of Process.
   <a href="https://hypernatt.com/vault"><img src="https://img.shields.io/badge/HyperEVM-Vault-10b981" alt="HyperNatt Vault" /></a>
   <a href="./SECURITY.md"><img src="https://img.shields.io/badge/Security-Documentation-success" alt="Security documentation" /></a>
   <a href="https://hypernatt.com/audit"><img src="https://img.shields.io/badge/Proof%20of%20Process-SHA--256%20Anchored-8b5cf6" alt="Proof of Process" /></a>
-  <a href="https://github.com/DIALLOUBE-RESEARCH/hypernatt-terminal"><img src="https://img.shields.io/badge/MCP%20Terminal-v2.9.1-purple" alt="MCP Terminal" /></a>
+  <a href="https://github.com/DIALLOUBE-RESEARCH/hypernatt-terminal"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhypernatt.com%2F.well-known%2Fx402.json&amp;query=%24.terminal.version&amp;label=MCP%20Terminal&amp;prefix=v&amp;color=purple" alt="MCP Terminal" /></a>
   <a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-lightgrey" alt="License" /></a>
 </p>
 
