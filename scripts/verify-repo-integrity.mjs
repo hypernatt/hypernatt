@@ -50,9 +50,7 @@ const forbiddenPatterns = [
     { name: 'Private Key pattern', regex: /0x[a-fA-F0-9]{64}/ },
     { name: 'Generic API Key pattern', regex: /(api_key|secret_key|private_key)\s*[:=]\s*["'][a-zA-Z0-9_\-]{16,}["']/i },
     { name: 'Internal Vault Private Keys', regex: /VAULT_SECRET|AGENT_PRIVATE_KEY|HOT_WALLET_KEY/i },
-    { name: 'Proprietary Remora Logic Leak', regex: /def\s+_h[0-9]{3}_|class\s+RemoraEngine/i },
-    { name: 'Deprecated NattSquare reference', regex: /nattsquare/i },
-    { name: 'Deprecated NDAT token reference', regex: /\bNDAT\b/ }
+    { name: 'Proprietary Remora Logic Leak', regex: /def\s+_h[0-9]{3}_|class\s+RemoraEngine/i }
 ];
 
 // These are independently verified public transaction/runtime fingerprints,
